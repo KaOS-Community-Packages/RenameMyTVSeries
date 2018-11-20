@@ -3,7 +3,7 @@
 # Version: 2.0.2
 # Webpage: https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/
 
-pkgname=renamemytvseries-bin
+pkgname=RenameMyTVSeries
 _pgmname=RenameMyTVSeries
 pkgver=2.0.1b
 pkgrel=1
