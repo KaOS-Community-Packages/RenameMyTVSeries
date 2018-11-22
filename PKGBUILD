@@ -23,7 +23,7 @@ md5sums_x86_64=('SKIP')
 
 package() {
   cd "$srcdir"
-  install -Dm755 "$pkgdir/opt/$_pgmname"
+  install -dm755 "$pkgdir/opt/$_pgmname"
   install -Dm755 "$srcdir/ffprobe" "$pkgdir/opt/$_pgmname/"
   install -Dm755 "$srcdir/RenameMyTVSeries" "$pkgdir/opt/$_pgmname/"
   install -Dm644 "$srcdir/icons/16x16.png" "$pkgdir/usr/share/icons/hicolor/16x16/apps/$_pgmname.png"
