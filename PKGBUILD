@@ -1,6 +1,6 @@
-pkgname=RenameMyTVSeries
+pkgname=renamemytvseries
 pkgver=2.0.2
-pkgrel=2
+pkgrel=3
 pkgdesc="Rename your TV-Series using TheTVDB"
 arch=('x86_64')
 url="https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/"
