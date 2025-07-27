@@ -1,6 +1,6 @@
 <h2>Notice: This Version is Outdated</h2>
 This package refers to an outdated legacy version of Rename My TV Series.
-As I no longer uses KaOSx, I will not maintain this package. For actively maintained QT/GTK beta versions, please use the updated AUR packages. Note that some changes might have to be performed to adapt it to KCP installation in KaOS.
+As I no longer uses KaOS, I will not maintain this package. For actively maintained QT/GTK beta versions, please use the updated AUR packages. Note that some changes **might** have to be performed to adapt it to KCP installation in KaOS.
 
 https://aur.archlinux.org/packages/?K=renamemytvseries
 
